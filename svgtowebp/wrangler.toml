@@ -1,4 +1,5 @@
 name = "svgtowebp"
 main = "functions/api/convert.js"
 compatibility_date = "2024-01-01"
+resvg = "node_modules/@resvg/resvg-wasm-cloudflare/index_bg.wasm"
 compatibility_flags = ["nodejs_compat"]
