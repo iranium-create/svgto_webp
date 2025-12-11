@@ -1,9 +1,8 @@
 {
   "name": "svgtowebp",
   "version": "1.0.0",
-  "private": true
-  
-   "dependencies": {
+  "private": true,
+  "dependencies": {
     "@resvg/resvg-wasm-cloudflare": "latest"
   }
 }
